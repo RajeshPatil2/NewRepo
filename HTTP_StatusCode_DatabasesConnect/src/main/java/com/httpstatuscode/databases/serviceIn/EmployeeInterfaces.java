@@ -2,8 +2,6 @@ package com.httpstatuscode.databases.serviceIn;
 
 import java.util.List;
 
-import org.springframework.web.bind.annotation.RequestBody;
-
 import com.httpstatuscode.databases.model.Employee;
 
 public interface EmployeeInterfaces {
